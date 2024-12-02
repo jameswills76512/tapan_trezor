@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'traieazeariscoins'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4E964E111D5D43B494E1ADC58168A8FE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F4F5E5C388764EABA8A46446E364FB13 }}
           package: .
